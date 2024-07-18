@@ -1,0 +1,24 @@
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher_MarkupCompile.cache
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher_MarkupCompile.lref
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\bin\Debug\net8.0-windows\Ethernet Switcher.exe
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\bin\Debug\net8.0-windows\Ethernet Switcher.deps.json
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\bin\Debug\net8.0-windows\Ethernet Switcher.runtimeconfig.json
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\bin\Debug\net8.0-windows\Ethernet Switcher.dll
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\bin\Debug\net8.0-windows\Ethernet Switcher.pdb
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.csproj.AssemblyReference.cache
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.g.resources
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.AssemblyInfoInputs.cache
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.AssemblyInfo.cs
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.csproj.CoreCompileInputs.cache
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet.E47F5F30.Up2Date
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.dll
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\refint\Ethernet Switcher.dll
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.pdb
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.genruntimeconfig.cache
+C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\ref\Ethernet Switcher.dll

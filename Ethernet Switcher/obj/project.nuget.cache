@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUDq7KyJEYw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gdy312\\source\\repos\\Ethernet Switcher\\Ethernet Switcher\\Ethernet Switcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gdy312\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\gdy312\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

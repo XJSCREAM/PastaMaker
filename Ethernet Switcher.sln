@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ethernet Switcher", "Ethernet Switcher\Ethernet Switcher.csproj", "{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CA39DA1-E5CE-4E43-8530-F8FF115A366C}
+	EndGlobalSection
+EndGlobal

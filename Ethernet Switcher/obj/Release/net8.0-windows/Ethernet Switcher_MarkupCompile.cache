@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\
+D:\xiangmu\WPF\Ethernet Switcher\obj\Release\net8.0-windows\
 Ethernet_Switcher
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 D:\xiangmu\WPF\Ethernet Switcher\App.xaml
 11407045341
 
-4-1549345439
+4-2040556567
 199-209368016
 MainWindow.xaml;
 

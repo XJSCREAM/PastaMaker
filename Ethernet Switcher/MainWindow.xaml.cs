@@ -10,21 +10,30 @@ namespace Ethernet_Switcher
         public MainWindow()
         {
             InitializeComponent();
-            LoadNetworkAdapters();
+            LoadNetworkAdapters(false);
         }
 
-        private void LoadNetworkAdapters()
+        private void LoadNetworkAdapters(bool onlyEnabled)
         {
             try
             {
+                cbAdapters.Items.Clear();
                 ManagementClass mc = new ManagementClass("Win32_NetworkAdapterConfiguration");
                 ManagementObjectCollection moc = mc.GetInstances();
 
                 foreach (ManagementObject mo in moc)
                 {
-                    // Only add enabled network adapters to the combo box
-                    if ((bool)mo["IPEnabled"])
+                    if (onlyEnabled)
                     {
+                        // 仅添加启用的网络适配器
+                        if ((bool)mo["IPEnabled"])
+                        {
+                            cbAdapters.Items.Add(mo["Description"]);
+                        }
+                    }
+                    else
+                    {
+                        // 添加所有网络适配器
                         cbAdapters.Items.Add(mo["Description"]);
                     }
                 }
@@ -39,6 +48,17 @@ namespace Ethernet_Switcher
                 MessageBox.Show("Error loading network adapters: " + ex.Message);
             }
         }
+
+        private void chkAdapterswork(object sender, RoutedEventArgs e)
+        {
+            LoadNetworkAdapters(true);
+        }
+
+        private void chkAdaptersnotwork(object sender, RoutedEventArgs e)
+        {
+            LoadNetworkAdapters(false);
+        }
+
 
         private void chkManual_Checked(object sender, RoutedEventArgs e)
         {

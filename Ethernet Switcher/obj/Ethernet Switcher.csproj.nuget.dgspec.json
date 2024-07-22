@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gdy312\\source\\repos\\Ethernet Switcher\\Ethernet Switcher\\Ethernet Switcher.csproj": {}
+    "D:\\xiangmu\\WPF\\Ethernet Switcher\\Ethernet Switcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gdy312\\source\\repos\\Ethernet Switcher\\Ethernet Switcher\\Ethernet Switcher.csproj": {
+    "D:\\xiangmu\\WPF\\Ethernet Switcher\\Ethernet Switcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gdy312\\source\\repos\\Ethernet Switcher\\Ethernet Switcher\\Ethernet Switcher.csproj",
+        "projectUniqueName": "D:\\xiangmu\\WPF\\Ethernet Switcher\\Ethernet Switcher.csproj",
         "projectName": "Ethernet Switcher",
-        "projectPath": "C:\\Users\\gdy312\\source\\repos\\Ethernet Switcher\\Ethernet Switcher\\Ethernet Switcher.csproj",
-        "packagesPath": "C:\\Users\\gdy312\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gdy312\\source\\repos\\Ethernet Switcher\\Ethernet Switcher\\obj\\",
+        "projectPath": "D:\\xiangmu\\WPF\\Ethernet Switcher\\Ethernet Switcher.csproj",
+        "packagesPath": "C:\\Users\\GDY\\.nuget\\packages\\",
+        "outputPath": "D:\\xiangmu\\WPF\\Ethernet Switcher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gdy312\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GDY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

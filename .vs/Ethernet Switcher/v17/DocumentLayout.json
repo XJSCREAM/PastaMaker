@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gdy312\\source\\repos\\Ethernet Switcher\\",
+  "WorkspaceRootPath": "D:\\xiangmu\\WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}|Ethernet Switcher\\Ethernet Switcher.csproj|c:\\users\\gdy312\\source\\repos\\ethernet switcher\\ethernet switcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}|Ethernet Switcher\\Ethernet Switcher.csproj|solutionrelative:ethernet switcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}|Ethernet Switcher\\Ethernet Switcher.csproj|d:\\xiangmu\\wpf\\ethernet switcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}|Ethernet Switcher\\Ethernet Switcher.csproj|solutionrelative:ethernet switcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}|Ethernet Switcher\\Ethernet Switcher.csproj|c:\\users\\gdy312\\source\\repos\\ethernet switcher\\ethernet switcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}|Ethernet Switcher\\Ethernet Switcher.csproj|solutionrelative:ethernet switcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}|Ethernet Switcher\\Ethernet Switcher.csproj|d:\\xiangmu\\wpf\\ethernet switcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681FEE62-5CF3-45E9-BFE6-0D43C7ADCA4D}|Ethernet Switcher\\Ethernet Switcher.csproj|solutionrelative:ethernet switcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\gdy312\\source\\repos\\Ethernet Switcher\\Ethernet Switcher\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\xiangmu\\WPF\\Ethernet Switcher\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Ethernet Switcher\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\gdy312\\source\\repos\\Ethernet Switcher\\Ethernet Switcher\\MainWindow.xaml",
+              "ToolTip": "D:\\xiangmu\\WPF\\Ethernet Switcher\\MainWindow.xaml",
               "RelativeToolTip": "Ethernet Switcher\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-18T12:38:38.076Z"
+              "WhenOpened": "2024-07-18T12:38:38.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gdy312\\source\\repos\\Ethernet Switcher\\Ethernet Switcher\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\xiangmu\\WPF\\Ethernet Switcher\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Ethernet Switcher\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\gdy312\\source\\repos\\Ethernet Switcher\\Ethernet Switcher\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\xiangmu\\WPF\\Ethernet Switcher\\MainWindow.xaml.cs",
               "RelativeToolTip": "Ethernet Switcher\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAuAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T12:38:28.67Z",
               "EditorCaption": ""

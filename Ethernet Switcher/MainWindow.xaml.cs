@@ -11,6 +11,7 @@ namespace Ethernet_Switcher
         {
             InitializeComponent();
             LoadNetworkAdapters(false);
+            LoadComputerName();
         }
 
         private void LoadNetworkAdapters(bool onlyEnabled)
@@ -46,6 +47,22 @@ namespace Ethernet_Switcher
             catch (Exception ex)
             {
                 MessageBox.Show("Error loading network adapters: " + ex.Message);
+            }
+        }
+
+        private void LoadComputerName()
+        {
+            try
+            {
+                // 获取计算机名
+                string computerName = Environment.MachineName;
+
+                // 设置TextBox控件的Text属性以显示计算机名
+                C_Name.Text = computerName;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error loading computer name: " + ex.Message);
             }
         }
 

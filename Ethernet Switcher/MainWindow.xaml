@@ -5,22 +5,35 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Ethernet_Switcher"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Pasta Maker" Height="450" Width="800">
     <Grid>
-        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
-            <TextBlock Text="Select Adapter:" Margin="10,10,10,0"/>
-            <StackPanel Orientation="Horizontal" Margin="10,0,0,0">
-                <ComboBox Name="cbAdapters" Width="150"/>
-                <CheckBox x:Name="chkAdapter" Content="Only Enabled" Margin="10,0,0,0" Checked="chkAdapterswork" Unchecked="chkAdaptersnotwork" Width="107" VerticalAlignment="Center"/>
-            </StackPanel>
-            <CheckBox Name="chkManual" Content="Manually Configure IP" Margin="10" Checked="chkManual_Checked" Unchecked="chkManual_Unchecked"/>
-            <TextBlock Text="IP Address:" Margin="10,10,10,0"/>
-            <TextBox Name="txtIPAddress" Width="200" Margin="10" IsEnabled="False"/>
-            <TextBlock Text="Subnet Mask:" Margin="10,10,10,0"/>
-            <TextBox Name="txtSubnetMask" Width="200" Margin="10" IsEnabled="False"/>
-            <TextBlock Text="Gateway:" Margin="10,10,10,0"/>
-            <TextBox Name="txtGateway" Width="200" Margin="10" IsEnabled="False"/>
-            <Button Name="btnChangeIP" Content="Change IP" Width="200" Margin="10" Click="btnChangeIP_Click"/>
-        </StackPanel>
+        <TabControl>
+            <TabItem Header="Network Configuration">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock Text="Select Adapter:" Margin="10,10,10,0"/>
+                    <StackPanel Orientation="Horizontal" Margin="10,0,0,0">
+                        <ComboBox Name="cbAdapters" Width="150"/>
+                        <CheckBox x:Name="chkAdapter" Content="Only Enabled" Margin="10,0,0,0" Checked="chkAdapterswork" Unchecked="chkAdaptersnotwork" Width="107" VerticalAlignment="Center"/>
+                    </StackPanel>
+                    <CheckBox Name="chkManual" Content="Manually Configure IP" Margin="10" Checked="chkManual_Checked" Unchecked="chkManual_Unchecked" HorizontalAlignment="Center"/>
+                    <TextBlock Text="IP Address:" Margin="10,10,10,0" HorizontalAlignment="Center"/>
+                    <TextBox Name="txtIPAddress" Width="200" Margin="10" IsEnabled="False"/>
+                    <TextBlock Text="Subnet Mask:" Margin="10,10,10,0" HorizontalAlignment="Center"/>
+                    <TextBox Name="txtSubnetMask" Width="200" Margin="10" IsEnabled="False"/>
+                    <TextBlock Text="Gateway:" Margin="10,10,10,0" HorizontalAlignment="Center"/>
+                    <TextBox Name="txtGateway" Width="200" Margin="10" IsEnabled="False"/>
+                    <Button Name="btnChangeIP" Content="Change IP" Width="200" Margin="10" Click="btnChangeIP_Click"/>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="System Info">
+                    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <StackPanel Orientation="Horizontal" Margin="10,0,0,0">
+                        <TextBlock Text="Computer Name:" Margin="10"/>
+                        <TextBox Name="C_Name" IsReadOnly="True" Width="100" Margin="10" Opacity="100"/>
+                    </StackPanel>
+                    <TextBox Name="C_ModifyName" Width="100" Margin="10"/>
+                </StackPanel>
+                </TabItem>
+        </TabControl>
     </Grid>
 </Window>

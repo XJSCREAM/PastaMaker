@@ -22,3 +22,28 @@ C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.
 C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.pdb
 C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.genruntimeconfig.cache
 C:\Users\gdy312\source\repos\Ethernet Switcher\Ethernet Switcher\obj\Debug\net8.0-windows\ref\Ethernet Switcher.dll
+D:\xiangmu\WPF\Ethernet Switcher\bin\Debug\net8.0-windows\Ethernet Switcher.exe
+D:\xiangmu\WPF\Ethernet Switcher\bin\Debug\net8.0-windows\Ethernet Switcher.deps.json
+D:\xiangmu\WPF\Ethernet Switcher\bin\Debug\net8.0-windows\Ethernet Switcher.runtimeconfig.json
+D:\xiangmu\WPF\Ethernet Switcher\bin\Debug\net8.0-windows\Ethernet Switcher.dll
+D:\xiangmu\WPF\Ethernet Switcher\bin\Debug\net8.0-windows\Ethernet Switcher.pdb
+D:\xiangmu\WPF\Ethernet Switcher\bin\Debug\net8.0-windows\System.Management.dll
+D:\xiangmu\WPF\Ethernet Switcher\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.csproj.AssemblyReference.cache
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\App.g.cs
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher_MarkupCompile.cache
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher_MarkupCompile.lref
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\MainWindow.baml
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.g.resources
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.AssemblyInfoInputs.cache
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.AssemblyInfo.cs
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.csproj.CoreCompileInputs.cache
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.sourcelink.json
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet.E47F5F30.Up2Date
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.dll
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\refint\Ethernet Switcher.dll
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.pdb
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\Ethernet Switcher.genruntimeconfig.cache
+D:\xiangmu\WPF\Ethernet Switcher\obj\Debug\net8.0-windows\ref\Ethernet Switcher.dll
